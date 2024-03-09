@@ -1,0 +1,516 @@
+{
+  "Class stats": [
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 3394740.538493088,
+      "Earned Premium": 997432.6375029628,
+      "GWP ": 1296662.4287538517
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 3176908.715258184,
+      "Earned Premium": 286414.62765585625,
+      "GWP ": 372339.01595261315
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 753793.6929213679,
+      "Earned Premium": 20312.954974952558,
+      "GWP ": 26406.841467438328
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 1233885.6762074828,
+      "Earned Premium": 963999.5055850594,
+      "GWP ": 1253199.3572605774
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 4274607.185349996,
+      "Earned Premium": 181601.73898833475,
+      "GWP ": 236082.26068483517
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 2763863.1508424305,
+      "Earned Premium": 554720.0057703408,
+      "GWP ": 721136.007501443
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 547029.665562696,
+      "Earned Premium": 113393.69918019482,
+      "GWP ": 147411.80893425326
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 3427263.2446700046,
+      "Earned Premium": 781318.3587780262,
+      "GWP ": 1015713.866411434
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 2027758.9704323935,
+      "Earned Premium": 323575.2153412215,
+      "GWP ": 420647.77994358796
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 97834.10102904621,
+      "Earned Premium": 337039.6007094646,
+      "GWP ": 438151.480922304
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 220407.05250742365,
+      "Earned Premium": 803516.256172513,
+      "GWP ": 1044571.1330242669
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 1859326.5379302304,
+      "Earned Premium": 689803.013160462,
+      "GWP ": 896743.9171086006
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 2803087.8013575138,
+      "Earned Premium": 46883.356508698125,
+      "GWP ": 60948.36346130756
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 2697379.1637767926,
+      "Earned Premium": 606218.5321802242,
+      "GWP ": 788084.0918342915
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 4946600.814763016,
+      "Earned Premium": 309119.54821530887,
+      "GWP ": 401855.4126799015
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 1733388.2672228785,
+      "Earned Premium": 377211.3264137673,
+      "GWP ": 490374.7243378975
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 3000810.921019772,
+      "Earned Premium": 637997.0465344714,
+      "GWP ": 829396.1604948129
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 1551107.927191776,
+      "Earned Premium": 283450.3527484331,
+      "GWP ": 368485.4585729631
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 2335508.5236889445,
+      "Earned Premium": 235217.03311367703,
+      "GWP ": 305782.14304778015
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 2457146.2999347937,
+      "Earned Premium": 212851.55135537504,
+      "GWP ": 276707.0167619875
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 216132.07268118995,
+      "Earned Premium": 503652.8413402256,
+      "GWP ": 654748.6937422933
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 2420383.450914114,
+      "Earned Premium": 477959.4038408961,
+      "GWP ": 621347.2249931649
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 4410724.256221647,
+      "Earned Premium": 657028.7482743702,
+      "GWP ": 854137.3727566813
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 2027744.9473760328,
+      "Earned Premium": 675686.5665542864,
+      "GWP ": 878392.5365205724
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 3647361.7841483806,
+      "Earned Premium": 594016.4463494924,
+      "GWP ": 772221.3802543401
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 2213853.223044541,
+      "Earned Premium": 391492.28420291224,
+      "GWP ": 508939.96946378594
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 2215646.5066392054,
+      "Earned Premium": 839810.0378366093,
+      "GWP ": 1091753.0491875922
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 3116709.8974756924,
+      "Earned Premium": 69643.45175447407,
+      "GWP ": 90536.48728081629
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 1226781.0911191767,
+      "Earned Premium": 926340.5575723279,
+      "GWP ": 1204242.7248440264
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 728337.3348176947,
+      "Earned Premium": 91424.80993352398,
+      "GWP ": 118852.25291358118
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 1155300.1933853773,
+      "Earned Premium": 688569.6265289157,
+      "GWP ": 895140.5144875904
+    },
+    {
+      "Year": 2021,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 901923.0234223213,
+      "Earned Premium": 732524.6510042786,
+      "GWP ": 952282.0463055621
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 477836.4515819926,
+      "Earned Premium": 604960.7696804894,
+      "GWP ": 621187.3870565904
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 744666.0962047941,
+      "Earned Premium": 456007.0397583611,
+      "GWP ": 968065.9250662324
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 535142.9244031777,
+      "Earned Premium": 350677.20573595795,
+      "GWP ": 695685.801724131
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 266430.065263495,
+      "Earned Premium": 265855.5434998423,
+      "GWP ": 346359.0848425435
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 545661.3546514637,
+      "Earned Premium": 704724.8466867829,
+      "GWP ": 709359.7610469029
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 70096.50936532664,
+      "Earned Premium": 463656.67132015264,
+      "GWP ": 91125.46217492463
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 614612.7692021556,
+      "Earned Premium": 93895.28344075326,
+      "GWP ": 798996.5999628024
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 575902.4766394311,
+      "Earned Premium": 671803.7805148897,
+      "GWP ": 748673.2196312605
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 284195.35950719786,
+      "Earned Premium": 182718.62111985672,
+      "GWP ": 369453.9673593572
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 382157.5608468843,
+      "Earned Premium": 937772.5012636407,
+      "GWP ": 496804.82910094963
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 585380.3440569642,
+      "Earned Premium": 533443.6645050669,
+      "GWP ": 760994.4472740535
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 434168.87127933203,
+      "Earned Premium": 299000.7212385366,
+      "GWP ": 564419.5326631317
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "Crime",
+      "Business Plan": 698735.2802050569,
+      "Earned Premium": 322340.4979866502,
+      "GWP ": 908355.864266574
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "FIPI",
+      "Business Plan": 101694.89721390835,
+      "Earned Premium": 67275.74969329264,
+      "GWP ": 132203.36637808086
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Financial Institution",
+      "ClassType": "D&O",
+      "Business Plan": 890531.8728565492,
+      "Earned Premium": 611877.9091200008,
+      "GWP ": 1157691.434713514
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 393735.95990284317,
+      "Earned Premium": 50606.62601598176,
+      "GWP ": 511856.74787369615
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 26154.518014143257,
+      "Earned Premium": 201318.13273844734,
+      "GWP ": 34000.87341838623
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 880533.9785942531,
+      "Earned Premium": 391246.44510105654,
+      "GWP ": 1144694.172172529
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 419011.092002196,
+      "Earned Premium": 816783.6663381407,
+      "GWP ": 544714.4196028549
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 144534.99907180923,
+      "Earned Premium": 330032.456784876,
+      "GWP ": 187895.49879335202
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 906945.4255152397,
+      "Earned Premium": 778405.718177872,
+      "GWP ": 1179029.0531698116
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 450145.469535164,
+      "Earned Premium": 260897.02950613026,
+      "GWP ": 585189.1103957132
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 904679.0357134332,
+      "Earned Premium": 313715.10176202934,
+      "GWP ": 1176082.7464274631
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 629789.2901980655,
+      "Earned Premium": 643564.8722012594,
+      "GWP ": 818726.0772574851
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 119250.56096473319,
+      "Earned Premium": 280733.5825454005,
+      "GWP ": 155025.72925415315
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 768374.458785354,
+      "Earned Premium": 598304.4615586944,
+      "GWP ": 998886.7964209603
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 400843.69258841436,
+      "Earned Premium": 756721.4661549819,
+      "GWP ": 521096.8003649387
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 609807.2186091961,
+      "Earned Premium": 472576.3269658719,
+      "GWP ": 792749.384191955
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 384930.620894294,
+      "Earned Premium": 513460.0861945681,
+      "GWP ": 500409.80716258223
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 239681.2126677038,
+      "Earned Premium": 506541.9519307717,
+      "GWP ": 311585.576468015
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 446796.50025153096,
+      "Earned Premium": 942127.8010431506,
+      "GWP ": 580835.4503269902
+    },
+    {
+      "Year": 2022,
+      "Class of Business": "Commercial PI",
+      "ClassType": "PI",
+      "Business Plan": 140456.5129357951,
+      "Earned Premium": 952096.6829892646,
+      "GWP ": 182593.46681653362
+    }
+  ]
+}

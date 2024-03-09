@@ -1,0 +1,382 @@
+{
+  "Broker stats": [
+    {
+      "Year": 2021,
+      "Broker Name": "Miller ",
+      "GWP": 528491.5776951652,
+      "Planned GWP": 792737.3665427477,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Howden",
+      "GWP": 181322.50749891822,
+      "Planned GWP": 271983.7612483773,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Aon ",
+      "GWP": 84163.92827121721,
+      "Planned GWP": 126245.89240682582,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Besso",
+      "GWP": 81961.47384816721,
+      "Planned GWP": 122942.21077225081,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Croton Stokes",
+      "GWP": 988720.6725250357,
+      "Planned GWP": 1483081.0087875535,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Balance",
+      "GWP": 492444.454405121,
+      "Planned GWP": 738666.6816076814,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "BMS",
+      "GWP": 322499.638132136,
+      "Planned GWP": 483749.457198204,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "JLT ",
+      "GWP": 335889.4383375997,
+      "Planned GWP": 503834.15750639956,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Willis",
+      "GWP": 227841.53192858957,
+      "Planned GWP": 341762.29789288435,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Aon ",
+      "GWP": 820441.132500566,
+      "Planned GWP": 1230661.6987508489,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Miller ",
+      "GWP": 121473.87111731089,
+      "Planned GWP": 182210.80667596633,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Balance",
+      "GWP": 703405.8871774407,
+      "Planned GWP": 1055108.830766161,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "BMS",
+      "GWP": 971255.374723917,
+      "Planned GWP": 1456883.0620858755,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Convex",
+      "GWP": 79609.1479216312,
+      "Planned GWP": 119413.7218824468,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Tysers",
+      "GWP": 177177.89238770644,
+      "Planned GWP": 265766.83858155966,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "McGill",
+      "GWP": 872954.7096580191,
+      "Planned GWP": 1309432.0644870286,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Marsh",
+      "GWP": 120539.93937121432,
+      "Planned GWP": 180809.9090568215,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Gallagher",
+      "GWP": 108111.4883294968,
+      "Planned GWP": 162167.2324942452,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Kentro",
+      "GWP": 760445.0795943625,
+      "Planned GWP": 1140667.6193915438,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Hendersons",
+      "GWP": 810428.7893591184,
+      "Planned GWP": 1215643.1840386777,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Gallagher",
+      "GWP": 540784.5368410553,
+      "Planned GWP": 811176.8052615828,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Hendersons",
+      "GWP": 405770.5522586832,
+      "Planned GWP": 608655.8283880248,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Kentro",
+      "GWP": 96860.17904758116,
+      "Planned GWP": 145290.26857137174,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Convex",
+      "GWP": 99861.56797281854,
+      "Planned GWP": 149792.35195922782,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Tysers",
+      "GWP": 240378.8173325887,
+      "Planned GWP": 360568.225998883,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "McGill",
+      "GWP": 673146.5883161423,
+      "Planned GWP": 1009719.8824742135,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2021,
+      "Broker Name": "Marsh",
+      "GWP": 838710.3448602626,
+      "Planned GWP": 1258065.5172903938,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Miller ",
+      "GWP": 255148.3672566799,
+      "Planned GWP": 382722.5508850198,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Howden",
+      "GWP": 985050.289680461,
+      "Planned GWP": 1477575.4345206916,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Aon ",
+      "GWP": 794263.139961792,
+      "Planned GWP": 1191394.709942688,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Besso",
+      "GWP": 704360.7992450028,
+      "Planned GWP": 1056541.1988675043,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Croton Stokes",
+      "GWP": 279452.72748740413,
+      "Planned GWP": 419179.0912311062,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Balance",
+      "GWP": 15948.38588846803,
+      "Planned GWP": 23922.578832702045,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "BMS",
+      "GWP": 8139.847270770772,
+      "Planned GWP": 12209.770906156158,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "JLT ",
+      "GWP": 804270.8117112366,
+      "Planned GWP": 1206406.2175668548,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Willis",
+      "GWP": 400479.22594311845,
+      "Planned GWP": 600718.8389146777,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Aon ",
+      "GWP": 590964.5555268383,
+      "Planned GWP": 886446.8332902575,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Miller ",
+      "GWP": 520522.5829992144,
+      "Planned GWP": 780783.8744988216,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Balance",
+      "GWP": 818040.2356305509,
+      "Planned GWP": 1227060.3534458263,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "BMS",
+      "GWP": 700721.6978318465,
+      "Planned GWP": 1051082.5467477697,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Convex",
+      "GWP": 579046.2041116927,
+      "Planned GWP": 868569.3061675391,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Tysers",
+      "GWP": 261495.66550867187,
+      "Planned GWP": 392243.4982630078,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "McGill",
+      "GWP": 670246.5034067106,
+      "Planned GWP": 1005369.7551100659,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Marsh",
+      "GWP": 497828.9079546526,
+      "Planned GWP": 746743.361931979,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Gallagher",
+      "GWP": 573310.2748004848,
+      "Planned GWP": 859965.4122007272,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Kentro",
+      "GWP": 405060.60797772504,
+      "Planned GWP": 607590.9119665875,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Hendersons",
+      "GWP": 64439.62016113214,
+      "Planned GWP": 96659.43024169821,
+      "Market Type": "Facilities"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Gallagher",
+      "GWP": 115333.52736952418,
+      "Planned GWP": 173000.29105428627,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Hendersons",
+      "GWP": 501300.8189804801,
+      "Planned GWP": 751951.2284707201,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Kentro",
+      "GWP": 997785.3564424538,
+      "Planned GWP": 1496678.0346636807,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Convex",
+      "GWP": 831935.5455677708,
+      "Planned GWP": 1247903.3183516562,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Tysers",
+      "GWP": 912122.6380877577,
+      "Planned GWP": 1368183.9571316366,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "McGill",
+      "GWP": 575548.7144837597,
+      "Planned GWP": 863323.0717256395,
+      "Market Type": "Open Market"
+    },
+    {
+      "Year": 2022,
+      "Broker Name": "Marsh",
+      "GWP": 191502.18266940332,
+      "Planned GWP": 287253.274004105,
+      "Market Type": "Open Market"
+    }
+  ]
+}
