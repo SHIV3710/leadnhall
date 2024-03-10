@@ -48,7 +48,7 @@ const App = () => {
         ) : (
           <>
             <Financial />
-            {/* <Commercial /> */}
+            <Commercial />
           </>
         )}
       </Graph>
